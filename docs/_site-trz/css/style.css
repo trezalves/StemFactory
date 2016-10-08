@@ -407,3 +407,11 @@ h6 {
   background: #d3d3d3;
   border-color: rgba(0, 0, 0, 0.2);
 }
+.buttons {
+  text-align: center;
+  display: block;
+  margin: 20px 0;
+}
+.result-summary {
+  text-align: center;
+}
